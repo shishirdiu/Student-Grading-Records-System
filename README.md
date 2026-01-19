@@ -12,6 +12,9 @@ This project is a simple Python program that takes a student’s name and marks 
 4.Input and output
 5.Dictionaries
 
+## Program Output
+![Program Output](Screenshot 2026-01-19 165607.png)
+
 # **What This Program Does**
 
 1.Takes student name as input
