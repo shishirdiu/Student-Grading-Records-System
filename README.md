@@ -20,6 +20,14 @@ This project is a simple Python program that takes a student’s name and marks 
 4.Assigns a grade (A, B, or C)
 5.Stores all data in a dictionary
 
+## How to Run
+1. Clone repo  
+2. Open terminal  
+3. Run `python main.py`
+   
+### Requirements
+* Python 3.14.2
+
 # **Grading System**
 
 Average ≥ 80 → Grade A
