@@ -13,7 +13,7 @@ This project is a simple Python program that takes a student’s name and marks 
 5.Dictionaries
 
 ## Program Output
-![Program Output](Screenshot 2026-01-19 165607.png)
+![Program Output](https://github.com/shishirdiu/Student-Grading-Records-System/blob/main/Screenshot%202026-01-19%20165607.png?raw=true)
 
 # **What This Program Does**
 
